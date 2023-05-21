@@ -6,3 +6,4 @@ Collection of small articles / tips
 - [Component lightweight_glide_list2](/Component%20lightweight_glide_list2.md)
 - [Reference qualifier on dictionary entry](/Reference-qualifier-on-dictionary-entry.md)
 - [GlideList - Remove options](/GlideList-Remove-Options.md)
+- [Find logged-in node](/Find-logged-in-node.md)
