@@ -7,3 +7,4 @@ Collection of small articles / tips
 - [Reference qualifier on dictionary entry](/Reference-qualifier-on-dictionary-entry.md)
 - [GlideList - Remove options](/GlideList-Remove-Options.md)
 - [Find logged-in node](/Find-logged-in-node.md)
+- [Find stuck events](/Find-stuck-events.md)
