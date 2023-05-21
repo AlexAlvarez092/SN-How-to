@@ -1,6 +1,6 @@
 # GlideList - Remove options
 
-> ‼️ This procedure implies DOM manipulation which is not considered a best practice. However, I didn’t find any other solution
+> **⚠️ Disclaimer:** This procedure implies DOM manipulation which is not considered a best practice. However, I didn’t find any other solution
 
 ## **Problem**
 

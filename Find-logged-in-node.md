@@ -1,6 +1,6 @@
 # Find logged-in node
 
-> ‼️ Please, always test the script in non-productive environments before running in a productive instance. Script was reviewed at the creation time but may break/get unexpected results due to instance versioning and SN API upgrades.
+> **⚠️ Disclaimer:** Please, always test the script in non-productive environments before running in a productive instance. Script was reviewed at the creation time but may break/get unexpected results due to instance versioning and SN API upgrades.
 
 The following piece of code determines and returns the node which a specified user is logged into.
 

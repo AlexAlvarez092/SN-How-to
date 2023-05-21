@@ -2,7 +2,7 @@
 
 > ℹ️ This article is the result of the following question I posted in the community
 
-> ‼️ Please, always test the script in non-productive environments before running in a productive instance. Script was reviewed at the creation time but may break/get unexpected results due to instance versioning and SN API upgrades.
+> **⚠️ Disclaimer:** Please, always test the script in non-productive environments before running in a productive instance. Script was reviewed at the creation time but may break/get unexpected results due to instance versioning and SN API upgrades.
 
 ## Scenario
 
