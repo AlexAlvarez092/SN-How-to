@@ -10,4 +10,5 @@ Collection of small articles / tips
 - [Find logged-in node](/Find-logged-in-node.md)
 - [Find stuck events](/Find-stuck-events.md)
 - [Next experience / UI Builder resources](/next-experience.md)
+- [SPM](/spm.md)
 - [Trigger BRs for specific records](/Trigger-BRs-for-specific-records.md)
