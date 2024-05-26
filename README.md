@@ -9,4 +9,5 @@ Collection of small articles / tips
 - [GlideList - Remove options](/GlideList-Remove-Options.md)
 - [Find logged-in node](/Find-logged-in-node.md)
 - [Find stuck events](/Find-stuck-events.md)
+- [Next experience / UI Builder resources](/next-experience.md)
 - [Trigger BRs for specific records](/Trigger-BRs-for-specific-records.md)
